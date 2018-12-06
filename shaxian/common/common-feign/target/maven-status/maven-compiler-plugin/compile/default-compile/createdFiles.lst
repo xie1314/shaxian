@@ -1,0 +1,4 @@
+com\isxxc\client\AreaClient.class
+com\isxxc\domain\entity\AreaDO.class
+com\isxxc\client\UploadFileClient.class
+com\isxxc\client\SmsClient.class

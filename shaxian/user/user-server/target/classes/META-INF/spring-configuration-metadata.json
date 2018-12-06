@@ -1,0 +1,22 @@
+{
+  "groups": [{
+    "name": "XiaoChiPuAuthConstant",
+    "type": "com.isxxc.constant.XiaoChiPuAuthConstant",
+    "sourceType": "com.isxxc.constant.XiaoChiPuAuthConstant"
+  }],
+  "properties": [
+    {
+      "name": "XiaoChiPuAuthConstant.key",
+      "type": "java.lang.String",
+      "description": "签名Key",
+      "sourceType": "com.isxxc.constant.XiaoChiPuAuthConstant"
+    },
+    {
+      "name": "XiaoChiPuAuthConstant.server-url",
+      "type": "java.lang.String",
+      "description": "服务器路径",
+      "sourceType": "com.isxxc.constant.XiaoChiPuAuthConstant"
+    }
+  ],
+  "hints": []
+}
